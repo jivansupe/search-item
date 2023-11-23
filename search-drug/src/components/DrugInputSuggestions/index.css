@@ -1,0 +1,14 @@
+.searchContainer{
+    display: grid;
+    justify-content: center;
+}
+.searchContainer ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+.searchContainer ul li{
+    padding: 0.2rem 0rem;
+    border: 1px solid red;
+}
